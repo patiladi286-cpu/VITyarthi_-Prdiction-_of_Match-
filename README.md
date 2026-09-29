@@ -40,7 +40,7 @@ This project uses only Python’s standard library, so no extra packages need to
 Open Terminal, Command Prompt, or PowerShell and run:
 
 ```bash
-git clone https://github.com/patiladi286-cpu/VITyarthi_-Prdiction-_of_Match
+git clone https://github.com/patiladi286-cpu/VITyarthi_-Prdiction-_of_Match-
 ```
 
 ### 2. Go to the project folder
