@@ -46,7 +46,7 @@ git clone https://github.com/patiladi286-cpu/VITyarthi_-Prdiction-_of_Match-
 ### 2. Go to the project folder
 
 ```bash
-cd VITyarthi_(Prdiction _of_Match)
+cd VITyarthi_-Prdiction-_of_Match-
 ```
 
 Make sure this folder contains `main.py`. If `main.py` is inside a subfolder, go into that folder before continuing.
